@@ -1,17 +1,19 @@
 # Normas e Procedimentos CMMZ
 
-## 1. Controle de Placas
+## Controle de Placas
 
 Antes de começar, veja a numeração de placas disponível no link abaixo: 
 
-https://docs.google.com/spreadsheets/d/1ifY6FY_Cu-N25BqFTYXNCQINJe7ytbExXrwUal119so/edit?usp=sharing
+Controle de Placas e Lanes_CMMZ.xlsx: https://docs.google.com/spreadsheets/d/1ifY6FY_Cu-N25BqFTYXNCQINJe7ytbExXrwUal119so/edit?usp=sharing
 
-## 2. Modelo de planilha para bibliotecas
+## Modelo de planilha para bibliotecas
 
-Faça o download da planilha modelo para bibliotecas: 
+Faça o download da planilha modelo para bibliotecas: CMMZ-Placas para bibliotecas genômicas.xlxs 
 
-Protocolo												
+## Protocolo
+
 1. Antes de começar, defina o número da placa de acordo com a planilha Controle de Placas e Lanes_CMMZ.xlsx. Preencha a planilha com todas as informações. 												
+
 2. Imprima o CheckList de bancada e cole no caderno de laboratório, na página correspondente ao início da preparação das bibliotecas. 												
 3. Preencha todos os campos ao lado, indicando qual o kit de bibliotecas utilizado. 												
 4. Caso o kit utilizado se o Kapa HyperPrep, escolha os índices iTru na aba "Indices_iTru"desta planilha, e preecha as colunas M e O na Aba 1.Bibliotecas com os nomes dos índices apenas, tomando cuidado para não usar a mesma combinação de índices em mais de uma amostra. As colunas T, U, V e W serão preenchidas automaticamente, e esses dados deverão ser informados ao centro de sequenciamento no momento do envio.  												
