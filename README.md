@@ -13,13 +13,11 @@ Faça o download da planilha modelo para bibliotecas: CMMZ-Placas para bibliotec
 ## Protocolo
 
 1. Antes de começar, defina o número da placa de acordo com a planilha Controle de Placas e Lanes_CMMZ.xlsx. Preencha a planilha com todas as informações. 												
-
-2. Imprima o CheckList de bancada e cole no caderno de laboratório, na página correspondente ao início da preparação das bibliotecas. 												
-3. Preencha todos os campos ao lado, indicando qual o kit de bibliotecas utilizado. 												
-4. Caso o kit utilizado se o Kapa HyperPrep, escolha os índices iTru na aba "Indices_iTru"desta planilha, e preecha as colunas M e O na Aba 1.Bibliotecas com os nomes dos índices apenas, tomando cuidado para não usar a mesma combinação de índices em mais de uma amostra. As colunas T, U, V e W serão preenchidas automaticamente, e esses dados deverão ser informados ao centro de sequenciamento no momento do envio.  												
+2. Imprima o CheckList de bancada, preenhca e cole no caderno de laboratório, na página correspondente ao início da preparação das bibliotecas. 		3. Preencha todos da aba Controle da sua planilha de bibliotecas (CMMZ-Placas para bibliotecas genômicas.xlxs), indicando qual o kit de bibliotecas utilizado. 												
+4. Caso o kit utilizado seja o Kapa HyperPrep, escolha os índices iTru na aba "Indices_iTru" desta planilha, e preecha as colunas M e O na Aba 1. Bibliotecas com os nomes dos índices apenas, tomando cuidado para não usar a mesma combinação de índices em mais de uma amostra. As colunas T, U, V e W serão preenchidas automaticamente, e esses dados deverão ser informados ao centro de sequenciamento no momento do envio.  												
 5. Caso o kit utilizado seja QIAseq ou NEBNext, confira qual kit está sendo usado, e copie os nomes dos índices correspondentes a partir das abas Indices_QIAseq ou Indices_NEBNext nesta planilha. 												
 6. Adicione às colunas Espécie, Código de Extração e Concentração de DNA extração as informações de forma idêntica ao informado na planilha de extração do laboratório de origem. 												
-7. Na coluna G (DNA Total da Extração) substitua o número 100 pelo volume de elução da sua extração. 												
+7. Na coluna G (DNA Total da Extração) substitua o número 100 pelo volume de eluição da sua extração. 												
 8. Preencha as colunas Data e Técnico apenas na data da execução das bibliotecas. 												
 9. Decida os tempos e volumes de sonicação, se necessário. O modelo da planilha contem as fórmulas para cálculo automático, com o valor base de 100 ng total. Caso deseje usar uma quantidade diferente de DNA, substitua o número 100 pelo número desejado nas fórmulas das colunas H e I.  												
 10. Durante a preparação das bibliotecas, pode-se usar os números simples da coluna A para marcação dos tubos. 												
